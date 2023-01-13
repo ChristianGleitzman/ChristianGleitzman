@@ -1,16 +1,37 @@
-### Hi there 👋
+# Welcome to my Github Profile
 
-<!--
-**ChristianGleitzman/ChristianGleitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student currently on a gap year, with a passion for software engineering and data science. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree or apprenticeship.
 
-Here are some ideas to get you started:
+## Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficient in Python and SQL
+- Experience with working with a wide range of python libraries such as PyQt5 and Pygame
+- Learning data analysis and visualization using tools such as Pandas and Matplotlib
+- Familiarity with version control systems such as Git and GitHub
+- Strong problem-solving and analytical skills
+- Aim to get to grips with machine learning modules such as scikit-learn
+
+## Projects
+
+Here are some of the projects that I've worked on:
+
+1. Pyramid Traversal Revison Program
+
+2. Scientific Calculator
+
+3. Sorting algorithm visualiser
+
+## Education
+
+- Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ
+- Achieved grades A*A*A*A in August of 2022
+- Currently in a gap year before starting a degree or apprenticeship
+
+## Contact
+
+If you have any questions or just want to chat about software engineering and data science, feel free to reach out to me via email or LinkedIn.
+
+Email: chris.gleitzman@gmail.com
+LinkedIn: https://www.linkedin.com/in/christian-gleitzman-1672691b8/
+
+Thank you for visiting my profile!
