@@ -1,6 +1,6 @@
 # Welcome to my Github Profile
 
-I am a student currently on a gap year, with a passion for software engineering and data science. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree or apprenticeship.
+I am a student currently in a gap year, with a passion for software engineering and data science. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree or apprenticeship.
 
 ## Skills and Experience
 
