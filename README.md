@@ -15,7 +15,7 @@ I am a student currently in a gap year, with a passion for software engineering 
 
 Here are some of the projects that I've worked on:
 
-1. Pyramid Traversal Revison Program
+1. Pyramid Traversal Revison Game
 
 2. Scientific Calculator
 
