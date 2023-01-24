@@ -32,6 +32,6 @@ Here are some of the projects that I've worked on:
 If you have any questions or just want to chat about software engineering and data science, feel free to reach out to me via email or LinkedIn.
 
 Email: chris.gleitzman@gmail.com
-LinkedIn: https://www.linkedin.com/in/christian-gleitzman-1672691b8/
+LinkedIn: https://www.linkedin.com/in/christian-gleitzman
 
 Thank you for visiting my profile!
