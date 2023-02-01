@@ -21,6 +21,8 @@ Here are some of the projects that I've worked on:
 
 3. Sorting algorithm visualiser
 
+4. Movie Ranking System
+
 ## Education
 
 - Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ
