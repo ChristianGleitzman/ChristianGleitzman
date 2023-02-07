@@ -23,6 +23,8 @@ Here are some of the projects that I've worked on:
 
 4. Movie Ranking System
 
+5. Password Manager 
+
 ## Education
 
 - Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ
