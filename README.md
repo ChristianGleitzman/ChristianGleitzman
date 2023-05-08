@@ -9,7 +9,6 @@ I am a student currently in a gap year, with a passion for software engineering 
 - Learning data analysis and visualization using tools such as Pandas and Matplotlib
 - Familiarity with version control systems such as Git and GitHub
 - Strong problem-solving and analytical skills
-- Aim to get to grips with machine learning libraries such as scikit-learn
 
 ## Projects
 
