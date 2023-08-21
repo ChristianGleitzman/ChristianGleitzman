@@ -28,7 +28,7 @@ Here are some of the projects that I've worked on:
 
 - Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ
 - Achieved grades A*,A*,A*,A in August of 2022
-- Currently in a gap year before starting a degree or apprenticeship
+- Currently in a gap year, aiming to study computer science at university.
 
 ## Contact
 
