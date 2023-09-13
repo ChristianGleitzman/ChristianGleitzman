@@ -1,11 +1,11 @@
 # Welcome to my Github Profile
 
-I am a student currently in a gap year, with a passion for software engineering and data science. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree or apprenticeship.
+I am a student currently in a gap year, with a passion for software engineering and data science. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree in computer science.
 
 ## Skills and Experience
 
 - Proficient in Python and SQL
-- Experience with working with a wide range of python libraries such as PyQt5 and Pygame
+- Experience with working with a wide range of python libraries such as PyQt and Pygame
 - Learning data analysis and visualization using tools such as Pandas and Matplotlib
 - Familiarity with version control systems such as Git and GitHub
 - Strong problem-solving and analytical skills
