@@ -1,6 +1,6 @@
 # Welcome to my Github Profile
 
-I am a student currently in a gap year, with a passion for software engineering and modern technology. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree in computer science.
+I am a student currently in a gap year, with an avid interest in computer science, especially software engineering. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree in computer science.
 
 ## Skills and Experience
 
@@ -32,7 +32,7 @@ Here are some of the projects that I've worked on:
 
 ## Contact
 
-If you have any questions or just want to chat about software engineering and data science, feel free to reach out to me via email or LinkedIn.
+If you have any questions or just want to chat about software engineering and computer science, feel free to reach out to me via email or LinkedIn.
 
 Email: chris.gleitzman@gmail.com
 LinkedIn: https://www.linkedin.com/in/christian-gleitzman
