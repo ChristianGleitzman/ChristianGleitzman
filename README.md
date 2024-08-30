@@ -1,6 +1,6 @@
 # Welcome to my Github Profile
 
-I am a undergraduate first year student currently studying Computer Science at the University of Southampton. During a gap year, I worked in retail while mapping my future at university and completing personal projects. Looking ahead, I aspire to work in the tech industry, where I can apply my skills to solve real-world problems. My ultimate goal is to contribute to innovative projects that have a positive impact on society.
+I am a first year undergraduate student currently studying Computer Science at the University of Southampton. During a gap year, I worked in retail while mapping my future at university and completing personal projects. Looking ahead, I aspire to work in the tech industry, where I can apply my skills to solve real-world problems. My ultimate goal is to contribute to innovative projects that have a positive impact on society.
 
 ## Skills and Experience
 
@@ -27,7 +27,7 @@ Here are some of the projects that I've worked on:
 
 ## Education
 
-- 1st Year Computer Science Undergraduate at the University of Southampton
+- 1st Year Computer Science Undergraduate Student at the University of Southampton
 - Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ, achieving grades A*,A*,A*,A respectively
 - Achieved 10 Grade Level 9s at GCSE including English, Maths and Sciences
 
