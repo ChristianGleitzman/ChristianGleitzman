@@ -1,5 +1,7 @@
 # Welcome to my Github Profile
 
+I am a undergraduate first year student currently studying Computer Science at the University of Southampton. During a gap year, I worked in retail while mapping my future at university and completing personal projects. Looking ahead, I aspire to work in the tech industry, where I can apply my skills to solve real-world problems. My ultimate goal is to contribute to innovative projects that have a positive impact on society.
+
 ## Skills and Experience
 
 - Proficient in Python and SQL
