@@ -1,12 +1,11 @@
 # Welcome to my Github Profile
 
-I am a student currently in a gap year, with an avid interest in computer science, especially software engineering. I am excited to be using this year to gain hands-on experience and improve my skills in these areas before pursuing a degree in computer science.
-
 ## Skills and Experience
 
 - Proficient in Python and SQL
 - Experience with working with a wide range of python libraries such as PyQt and Pygame
-- Learning data analysis and visualization using tools such as Pandas and Matplotlib
+- Experimented with data analysis and visualization using tools such as Pandas and Matplotlib
+- Knowledge of HTML, CSS and Javascript
 - Familiarity with version control systems such as Git and GitHub
 - Strong problem-solving and analytical skills
 
@@ -26,9 +25,9 @@ Here are some of the projects that I've worked on:
 
 ## Education
 
-- Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ
-- Achieved grades A*,A*,A*,A in August of 2022
-- Currently in a gap year, aiming to study computer science at university.
+- 1st Year Computer Science Undergraduate at the University of Southampton
+- Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ, achieving grades A*,A*,A*,A respectively
+- Achieved 10 Grade Level 9s at GCSE including English, Maths and Sciences
 
 ## Contact
 
