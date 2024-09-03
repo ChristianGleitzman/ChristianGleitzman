@@ -6,11 +6,11 @@ I am a first year undergraduate student currently studying Computer Science at t
 
 - Proficient in Python and SQL
 - Experience with working with a wide range of python libraries such as PyQt and Pygame
-- Experimented with data analysis and visualization using tools such as Pandas and Matplotlib
-- Knowledge of HTML, CSS and Javascript
-- Familiarity with version control when using GitHub
 - Strong problem-solving and analytical skills
-
+- Knowledge of HTML, CSS and Javascript
+- Experimented with data analysis and visualization using tools such as Pandas and Matplotlib
+- Familiarity with version control when using GitHub
+  
 ## Projects
 
 Here are some of the projects that I've worked on:
