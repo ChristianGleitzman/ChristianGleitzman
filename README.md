@@ -6,10 +6,11 @@ I am a first year undergraduate student currently studying Computer Science at t
 
 - Proficient in Python and SQL
 - Experience with working with a wide range of python libraries such as PyQt and Pygame
-- Strong problem-solving and analytical skills
+- Use of Java fundamentals and learning various libraries such as JavaFX
 - Knowledge of HTML, CSS, Javascript and C
 - Experimented with data analysis and visualization using tools such as Pandas and Matplotlib
 - Familiarity with version control when using GitHub
+- Strong problem-solving and analytical skills
   
 ## Projects
 
@@ -27,7 +28,7 @@ Here are some of the projects that I've worked on:
 
 ## Education
 
-- 1st Year Computer Science Undergraduate Student at the University of Southampton
+- 1st Year Computer Science Undergraduate Student at the University of Southampton (Module overviews can be seen on my LinkedIn!)
 - Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ, achieving grades A*,A*,A*,A respectively
 - Achieved 10 Grade Level 9s at GCSE including English, Maths and Sciences
 
