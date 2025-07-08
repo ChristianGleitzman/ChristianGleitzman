@@ -23,7 +23,7 @@ As I look ahead, I’m excited about pursuing opportunities in the tech industry
 Here are a few personal projects I’ve worked on:
 
 - 🎮 **Pyramid Traversal Revision Game** - A Python-based quiz platform to revise concepts through interactive gameplay  
-- 🧮 **Scientific Calculator** - A GUI calculator app with advanced functionality using PyQt  
+- 🧮 **Calculator** - A GUI calculator app with advanced functionality using PyQt  
 - 📊 **Sorting Algorithm Visualiser** - Visual representation of common sorting algorithms built with Pygame  
 - 🎬 **Movie Ranking System** - A basic database system for tracking and ranking films using SQL  
 - 🔐 **Password Manager** - A secure, local password storage app with a simple GUI
