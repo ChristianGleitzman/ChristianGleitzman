@@ -1,42 +1,58 @@
-# Welcome to my Github Profile
+# 👋 Welcome to My GitHub Profile
 
-I am a first year undergraduate student currently studying Computer Science at the University of Southampton. During a gap year, I worked in retail while mapping my future at university and completing personal projects. Looking ahead, I aspire to work in the tech industry, where I can apply my skills to solve real-world problems. My ultimate goal is to contribute to innovative projects that have a positive impact on society.
+I'm **Christian Gleitzman**, a Computer Science undergraduate at the **University of Southampton**, having recently completed my first year. My passion lies in problem-solving and using code to build tools that are practical, creative, and impactful.
 
-## Skills and Experience
+Before university, I took a deliberate break to reflect on my goals, develop my coding skills through personal projects, and work in retail. This time helped me strengthen both my technical foundation and soft skills - something I continue to build on through academic study and part-time work.
 
-- Proficient in Python and SQL
-- Experience with working with a wide range of python libraries such as PyQt and Pygame
-- Use of Java fundamentals and learning various libraries such as JavaFX
-- Knowledge of HTML, CSS, Javascript and C
-- Experimented with data analysis and visualization using tools such as Pandas and Matplotlib
-- Familiarity with version control when using GitHub
-- Strong problem-solving and analytical skills
-  
-## Projects
+As I look ahead, I’m excited about pursuing opportunities in the tech industry where I can contribute to innovative solutions and gain real-world experience in software development, systems design, and data-driven technologies.
 
-Here are some of the projects that I've worked on:
+---
 
-1. Pyramid Traversal Revison Game
+## 🧠 Skills & Experience
 
-2. Scientific Calculator
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, C  
+- **Frameworks & Libraries:** PyQt, Pygame, JavaFX, Pandas, Matplotlib  
+- **Concepts:** OOP, GUI development, multithreading, basic networking, algorithm design  
+- **Tools:** Git & GitHub, Visual Studio Code, IntelliJ IDEA  
+- **Soft Skills:** Communication, collaboration, critical thinking, presentation & technical writing
 
-3. Sorting algorithm visualiser
+---
 
-4. Movie Ranking System
+## 💻 Selected Projects
 
-5. Password Manager 
+Here are a few personal projects I’ve worked on:
 
-## Education
+- 🎮 **Pyramid Traversal Revision Game** – A Python-based quiz platform to revise concepts through interactive gameplay  
+- 🧮 **Scientific Calculator** - A GUI calculator app with advanced functionality using PyQt  
+- 📊 **Sorting Algorithm Visualiser** - Visual representation of common sorting algorithms built with Pygame  
+- 🎬 **Movie Ranking System** - A basic database system for tracking and ranking films using SQL  
+- 🔐 **Password Manager** – A secure, local password storage app with a simple GUI
 
-- 1st Year Computer Science Undergraduate Student at the University of Southampton (Module overviews can be seen on my LinkedIn!)
-- Completed A levels in Mathematics, Further Mathematics and Computer Science as well as an EPQ, achieving grades A*,A*,A*,A respectively
-- Achieved 10 Grade Level 9s at GCSE including English, Maths and Sciences
+> I'm continuously learning, and more projects are added as time goes on!
 
-## Contact
+---
 
-If you have any questions or just want to chat about software engineering and computer science, feel free to reach out to me via email or LinkedIn.
+## 🎓 Education
 
-Email: chris.gleitzman@gmail.com
-LinkedIn: https://www.linkedin.com/in/christian-gleitzman
+- **BSc Computer Science, University of Southampton**  
+  First-year modules included:
+  - Programming 1 & 2 (Java, GUIs, multithreading, lambdas)
+  - Data Management (SQL & relational databases)
+  - Computer Systems
+  - Networks and Security
+  - Algorithmics and Mathematics 1 & 2
+  - Professional and lab-based modules with essay writing and presentations
 
-Thank you for visiting my profile!
+- **A Levels:** Mathematics, Further Mathematics, Computer Science, and an EPQ - A*A*A*A  
+- **GCSEs:** 10 Grade 9s including Maths, English, and all Sciences
+
+---
+
+## 📫 Let’s Connect!
+
+Whether you're interested in collaborating, mentoring, or just having a conversation about technology, I’d love to hear from you.
+
+- ✉️ **Email:** chris.gleitzman@gmail.com  
+- 🔗 **LinkedIn:** [christian-gleitzman](https://www.linkedin.com/in/christian-gleitzman)
+
+Thanks for visiting my profile and feel free to explore my repositories!
