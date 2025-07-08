@@ -26,7 +26,7 @@ Here are a few personal projects I’ve worked on:
 - 🧮 **Scientific Calculator** - A GUI calculator app with advanced functionality using PyQt  
 - 📊 **Sorting Algorithm Visualiser** - Visual representation of common sorting algorithms built with Pygame  
 - 🎬 **Movie Ranking System** - A basic database system for tracking and ranking films using SQL  
-- 🔐 **Password Manager** – A secure, local password storage app with a simple GUI
+- 🔐 **Password Manager** - A secure, local password storage app with a simple GUI
 
 > I'm continuously learning, and more projects are added as time goes on!
 
@@ -43,7 +43,7 @@ Here are a few personal projects I’ve worked on:
   - Algorithmics and Mathematics 1 & 2
   - Professional and lab-based modules with essay writing and presentations
 
-- **A Levels:** Mathematics, Further Mathematics, Computer Science, and an EPQ - A*A*A*A  
+- **A Levels:** Mathematics, Further Mathematics, Computer Science, and an EPQ - A* A* A* A  
 - **GCSEs:** 10 Grade 9s including Maths, English, and all Sciences
 
 ---
