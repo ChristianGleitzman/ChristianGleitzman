@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile
+# Welcome to My GitHub Profile
 
 I'm **Christian Gleitzman**, a Computer Science undergraduate at the **University of Southampton**, having recently completed my first year. My passion lies in problem-solving and using code to build tools that are practical, creative, and impactful.
 
@@ -8,7 +8,7 @@ As I look ahead, I’m excited about pursuing opportunities in the tech industry
 
 ---
 
-## 🧠 Skills & Experience
+## Skills & Experience
 
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, C  
 - **Frameworks & Libraries:** PyQt, Pygame, JavaFX, Pandas, Matplotlib  
@@ -18,21 +18,21 @@ As I look ahead, I’m excited about pursuing opportunities in the tech industry
 
 ---
 
-## 💻 Selected Projects
+## Selected Projects
 
 Here are a few personal projects I’ve worked on:
 
-- 🎮 **Pyramid Traversal Revision Game** - A Python-based quiz platform to revise concepts through interactive gameplay  
-- 🧮 **Calculator** - A GUI calculator app with advanced functionality using PyQt  
-- 📊 **Sorting Algorithm Visualiser** - Visual representation of common sorting algorithms built with Pygame  
-- 🎬 **Movie Ranking System** - A basic database system for tracking and ranking films using SQL  
-- 🔐 **Password Manager** - A secure, local password storage app with a simple GUI
+- **Pyramid Traversal Revision Game** - A Python-based quiz platform to revise concepts through interactive gameplay  
+- **Calculator** - A GUI calculator app with advanced functionality using PyQt  
+- **Sorting Algorithm Visualiser** - Visual representation of common sorting algorithms built with Pygame  
+- **Movie Ranking System** - A basic database system for tracking and ranking films using SQL  
+- **Password Manager** - A secure, local password storage app with a simple GUI
 
 > I'm continuously learning, and more projects are added as time goes on!
 
 ---
 
-## 🎓 Education
+## Education
 
 - **BSc Computer Science, University of Southampton**  
   First-year modules included:
@@ -48,7 +48,7 @@ Here are a few personal projects I’ve worked on:
 
 ---
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 Whether you're interested in collaborating, mentoring, or just having a conversation about technology, I’d love to hear from you.
 
