@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-I'm **Christian Gleitzman**, a Computer Science undergraduate at the **University of Southampton**, having recently completed my first year. My passion lies in problem-solving and using code to build tools that are practical, creative, and impactful.
+I'm **Christian Gleitzman**, a Computer Science undergraduate at the **University of Southampton**, in my second year of study. My passion lies in problem-solving and using code to build tools that are practical, creative, and impactful.
 
 Before university, I took a deliberate break to reflect on my goals, develop my coding skills through personal projects, and work in retail. This time helped me strengthen both my technical foundation and soft skills - something I continue to build on through academic study and part-time work.
 
